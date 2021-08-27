@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lirenqiang/github/DataStructure_Wangdao/DataStructure/ElemType.h
+
+/Users/lirenqiang/github/DataStructure_Wangdao/DataStructure/SeqList.cpp
+SeqList.h
+/Users/lirenqiang/github/DataStructure_Wangdao/DataStructure/SeqList.h
+
+/Users/lirenqiang/github/DataStructure_Wangdao/DataStructure/SeqList.h
+ElemType.h
+/Users/lirenqiang/github/DataStructure_Wangdao/DataStructure/ElemType.h
+iostream
+-
+
+/Users/lirenqiang/github/DataStructure_Wangdao/DataStructure/SeqListQuestion.cpp
+SeqListQuestion.h
+/Users/lirenqiang/github/DataStructure_Wangdao/DataStructure/SeqListQuestion.h
+
+/Users/lirenqiang/github/DataStructure_Wangdao/DataStructure/SeqListQuestion.h
+ElemType.h
+/Users/lirenqiang/github/DataStructure_Wangdao/DataStructure/ElemType.h
+SeqList.h
+/Users/lirenqiang/github/DataStructure_Wangdao/DataStructure/SeqList.h
+iostream
+-
+
+/Users/lirenqiang/github/DataStructure_Wangdao/DataStructure/main.cpp
+iostream
+-
+SeqListQuestion.h
+/Users/lirenqiang/github/DataStructure_Wangdao/DataStructure/SeqListQuestion.h
+
